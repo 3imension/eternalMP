@@ -1346,13 +1346,15 @@ a {
 }
 .cid-vqa6vnCwrX .mbr-section-title {
   color: #00feff;
+  text-align: center;
 }
 .cid-vqa6vnCwrX .mbr-text,
 .cid-vqa6vnCwrX .mbr-section-btn {
-  color: #737373;
+  color: #00feff;
+  text-align: center;
 }
 .cid-vrQJB5JG8g {
-  padding-top: 3rem;
+  padding-top: 1rem;
   padding-bottom: 3rem;
   background-color: #232323;
 }
@@ -1613,7 +1615,7 @@ a {
   max-width: 800px;
 }
 .cid-vrQJB5JG8g .mbr-section-title {
-  color: #00feff;
+  color: #b4b4b4;
 }
 .cid-vrQJB5JG8g .mbr-section-subtitle {
   color: #b4b4b4;
