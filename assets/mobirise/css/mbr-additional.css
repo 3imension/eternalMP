@@ -775,14 +775,6 @@ a {
   outline-offset: 2px !important;
   transition: outline 0.2s ease-in-out;
 }
-.new-font {
-  font-family: 'Inter Tight', sans-serif;
-  font-size: 2rem;
-  line-height: 1.5;
-}
-.new-font > .mbr-iconfont {
-  font-size: 2rem;
-}
 .cid-tJS9vXDdRK {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -944,6 +936,7 @@ a {
 .cid-vlVE7SEpPm .item-subtitle,
 .cid-vlVE7SEpPm .mbr-section-btn {
   color: #737373;
+  text-align: center;
 }
 .cid-vlVwd4Jt3r {
   display: flex;
@@ -1625,6 +1618,7 @@ a {
 }
 .cid-vrQJB5JG8g .mbr-item-subtitle {
   color: #b4b4b4;
+  text-align: justify;
 }
 .cid-vlVAwhyDSv {
   padding-top: 3rem;
